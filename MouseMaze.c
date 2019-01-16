@@ -1,4 +1,4 @@
-//Or Hadad, 308101591, Beer Sheva
+
 
 #include <stdlib.h>
 #include <stdio.h>
